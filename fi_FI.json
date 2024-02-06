@@ -2,7 +2,7 @@
   "DASHBOARD": {
     "LABEL": "Etusivu",
     "RECENT_ACTIVITES": {
-      "LABEL": "Viimeisimmät toiminnot",
+      "LABEL": "Viimeisimmät",
       "INCIDENT": "Viimeisimmät tapahtumat",
       "REPORT": "Viimeisimmät raportit",
       "BOLO": "Viimeisimmät Etsintäkuulutukset",
